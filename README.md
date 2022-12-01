@@ -31,7 +31,7 @@ starting_urls = ["https://www.zurich.co.uk/insurance/faqs"]
 2. Initialize a storage folder with name 'website'
 
 ```
-build_input_urls_storage(starting_urls, website="n26")
+build_input_urls_storage(starting_urls, website="zurich")
 ```
 
 3. Start scrapping
